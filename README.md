@@ -44,7 +44,7 @@ http://wiki.jikexueyuan.com/project/react-native/
 
 * react-native中文文档(react native中文网，人工翻译，官网完全同步)
 http://react-native.cn/docs/getting-started.html
-
+ddddd
 * react-native第一课
 http://html-js.com/article/2783
 
