@@ -20,8 +20,7 @@ https://github.com/jondot/awesome-react-native
 ## 教程
 dddddd
 ### React Native
-
-* **构建 Facebook F8 2016 App / React Native 开发指南**
+eeeeeee* **构建 Facebook F8 2016 App / React Native 开发指南**
 http://f8-app.liaohuqiu.net/
 
 * **React-Native入门指南**
